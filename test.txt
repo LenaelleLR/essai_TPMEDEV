@@ -1,2 +1,4 @@
 Ceci est un document test.
 Je viens de modifier ce fichier.
+
+Je le modifie dans la branche newImage
